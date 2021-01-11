@@ -6,6 +6,7 @@ namespace BloomFilter
     /// <summary>
     /// Implementing Bloom Filter to see how it works step by step
     /// Code copied from the excellent introduction by Mike James: https://www.i-programmer.info/programming/theory/2404-the-bloom-filter.html
+    /// The introduction to hashing is also very good: https://www.i-programmer.info/babbages-bag/479-hashing.html
     /// </summary>
     public class Bloom
     {
